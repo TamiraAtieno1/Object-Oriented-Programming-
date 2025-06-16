@@ -67,6 +67,8 @@
 ## Some use case symbols
 ![image](https://github.com/user-attachments/assets/0805f8ef-c4b5-4542-94d6-1b8f076ed07c)
 
+## Use case examples 
+![image](https://github.com/user-attachments/assets/7a4b5e28-cec0-4de7-bbb7-283e9446d870)
 
 
 
