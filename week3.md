@@ -64,6 +64,8 @@
    - Relationships between use cases
 - These relationships consist of association, include, extend, and generalization relationships
 
+## Some use case symbols
+![image](https://github.com/user-attachments/assets/0805f8ef-c4b5-4542-94d6-1b8f076ed07c)
 
 
 
