@@ -56,12 +56,12 @@
 
 ## Elements of Use case Modelling
 - The elements of a use-case diagram include:
-  actors, 
-  use cases, 
-  subject boundaries, 
-  relationships between actors, 
-  relationships between actors and use cases,
-  Relationships between use cases
+   - actors, 
+   - use cases, 
+   - subject boundaries, 
+   - relationships between actors, 
+   - relationships between actors and use cases,
+   - Relationships between use cases
 - These relationships consist of association, include, extend, and generalization relationships
 
 
