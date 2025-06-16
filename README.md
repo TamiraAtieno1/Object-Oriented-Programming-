@@ -1,4 +1,4 @@
 # OOP
 
 ### Table of contents
--[Week 1](./wweek1.md)
+-[Week 1](./week1.md)
