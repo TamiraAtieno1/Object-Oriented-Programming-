@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86a13c04-b5fe-4806-b682-1dfee0eb0c95)# Behavioral Modelling
+# Behavioral Modelling
 
 ## Introduction
 
